@@ -1,0 +1,5 @@
+{
+  "name": "MindFlow Sudoku",
+  "description": "A modern, responsive Sudoku application featuring algorithmic puzzle generation, difficulty levels, and an integrated AI Coach powered by Gemini to explain logical moves.",
+  "requestFramePermissions": []
+}
